@@ -65,7 +65,7 @@ hi Special	ctermfg=White guifg=#FFFFFF cterm=none gui=none
 hi Identifier	ctermfg=DarkRed guifg=#BDD094 cterm=none
 hi Statement	ctermfg=LightCyan cterm=none guifg=#A9A900 gui=none
 hi PreProc	ctermfg=DarkRed guifg=#ffffff gui=none cterm=none
-hi type		ctermfg=LightCyan guifg=Brown gui=none cterm=none
+hi type		ctermfg=LightCyan guifg=LightBlue gui=none cterm=none
 hi Underlined	cterm=underline term=underline
 hi Ignore	guifg=bg ctermfg=bg
 
